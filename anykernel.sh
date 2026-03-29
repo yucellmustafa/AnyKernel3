@@ -4,13 +4,13 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=PerfKernel @yucellmustafa
+kernel.string=PerfKernel for Apollo
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=toco
+device.name1=apollo
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
